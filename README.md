@@ -1,4 +1,4 @@
-# AiVoicer - AI-Powered Voice Transcription and Text Processing Tool
+# AiVoicer - AI-Powered local Voice Transcription and Text Processing Tool
 
 ## Overview
 AiVoicer is a powerful desktop application that provides seamless voice transcription and AI-powered text processing. With customizable hotkeys, you can quickly transcribe audio or process text using OpenAI's advanced language models. Even the UI is German it works in any Language. English UI will come in next release.
