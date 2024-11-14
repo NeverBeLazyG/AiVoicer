@@ -5,7 +5,9 @@ AiVoicer is a powerful desktop application that provides seamless voice transcri
 
 ![PFEsq4sMpX](https://github.com/user-attachments/assets/cefb181f-8b86-41d8-8c37-95c5ea7db376)
 ![image](https://github.com/user-attachments/assets/43564901-eaad-41c7-9f52-629d02308364)
-![image](https://github.com/user-attachments/assets/ce68678a-f086-4a93-a6a9-a477934c2dbc)
+<img width="255" alt="image" src="https://github.com/user-attachments/assets/a32f8d23-5fd1-47e1-8de7-332572091e0b">
+
+
 
 
 
