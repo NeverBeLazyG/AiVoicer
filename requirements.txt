@@ -1,0 +1,11 @@
+customtkinter
+openai
+pystray
+Pillow
+keyboard
+sounddevice
+numpy
+torch
+whisper
+pyperclip
+soundfile
