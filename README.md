@@ -3,6 +3,13 @@
 ## Overview
 AiVoicer is a powerful desktop application that provides seamless voice transcription and AI-powered text processing. With customizable hotkeys, you can quickly transcribe audio or process text using OpenAI's advanced language models.
 
+<img width="272" alt="image" src="https://github.com/user-attachments/assets/9d0f85a5-4d63-4d49-a84f-3d32ca64b684">
+![PFEsq4sMpX](https://github.com/user-attachments/assets/cefb181f-8b86-41d8-8c37-95c5ea7db376)
+![image](https://github.com/user-attachments/assets/43564901-eaad-41c7-9f52-629d02308364)
+
+
+
+
 ## Features
 - Voice recording with global hotkey
 - AI-powered transcription using Whisper
