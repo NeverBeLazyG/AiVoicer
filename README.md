@@ -60,7 +60,7 @@ python aivoicer.py
 
 ### Configuration
 - First-time setup requires an OpenAI API key
-- Go to application settings to configure:
+- Go to application settings to configure (right click in Tray Icon):
   - OpenAI API key
   - Hotkeys
 
