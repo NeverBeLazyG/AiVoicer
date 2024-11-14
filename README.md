@@ -70,7 +70,7 @@ python aivoicer.py
 
 ## Dependencies
 - CustomTkinter for UI
-- OpenAI for text processing
+- OpenAI (GPT-4o-mini, can be changed) for text processing
 - Whisper for transcription
 - SoundDevice for audio recording
 
