@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# AiVoicer
-AiVoicer - AI-Powered Voice Transcription and Text Processing Tool
-=======
 # AiVoicer - AI-Powered Voice Transcription and Text Processing Tool
 
 ## Overview
@@ -85,4 +81,3 @@ Contributions are welcome! Please submit pull requests or open issues.
 
 ## Disclaimer
 This tool requires an active internet connection and an OpenAI API key for full functionality.
->>>>>>> 877490b (Initial commit)
