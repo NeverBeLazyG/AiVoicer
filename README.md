@@ -35,26 +35,28 @@ AiVoicer is a powerful desktop application that provides seamless voice transcri
 ### Manual Setup
 
 1. Clone the repository:
-bash
+```
 git clone https://github.com/NeverBeLazyG/AiVoicer.git
 cd AiVoicer
-
-
-2. Create a virtual environment:
-bash
+```
+3. Create a virtual environment:
+```
 python -m venv .venv
 .venv\Scripts\activate  # On Windows
+```
 
 
-3. Install dependencies:
+5. Install dependencies:
 bash
+```
 pip install -r requirements.txt
+```
 
-
-4. Run the application:
+7. Run the application:
 bash
+```
 python aivoicer.py
-
+```
 
 ### Configuration
 - First-time setup requires an OpenAI API key
